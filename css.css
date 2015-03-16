@@ -77,9 +77,8 @@ html, body{
 	left: 50%;
 	width: 120%;
 	height: 120%;
-	/*background-color: blue;*/
-	background-image: url(http://i.imgur.com/ncmNhiy.jpg);
-	background-size: 100% 100%;
+	/*background-color: blue;*/	
+	background: url(http://i.imgur.com/ncmNhiy.jpg) 100% 100% / cover; 
 	background-repeat: no-repeat;
 	background-position: center;
 	transform: translate(-50%, -50%);
@@ -94,8 +93,8 @@ html, body{
 	width: 120%;
 	height: 120%;
 	/*background-color: blue;*/
-	background-image: url(http://i.imgur.com/do1Kyoj.jpg);
-	background-size: 100% 100%;
+
+	background: url(http://i.imgur.com/do1Kyoj.jpg) 100% 100% / cover; 
 	background-repeat: no-repeat;
 	background-position: center;
 	transform: translate(-50%, -50%);
@@ -110,8 +109,8 @@ html, body{
 	width: 120%;
 	height: 120%;
 	/*background-color: blue;*/
-	background-image: url(http://i.imgur.com/XwNPfIY.jpg);
-	background-size: 100% 100%;
+
+	background: url(http://i.imgur.com/XwNPfIY.jpg) 100% 100% / cover; 
 	background-repeat: no-repeat;
 	background-position: center;
 	transform: translate(-50%, -50%);
